@@ -1,3 +1,3 @@
 About
 ===
-This abb is for fetching data from server
+This app is for fetching data from server
